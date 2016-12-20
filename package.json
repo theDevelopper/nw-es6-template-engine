@@ -1,0 +1,26 @@
+{
+  "name": "nw-es6-template-engine",
+  "version": "1.0.0",
+  "description": "very primitive way to handle templates with ES6 template strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theDevelopper/nw-es6-template-engine.git"
+  },
+  "keywords": [
+    "es6",
+    "template",
+    "nw",
+    "node-webkit",
+    "templatestrings"
+  ],
+  "author": "theDevelopper",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/theDevelopper/nw-es6-template-engine/issues"
+  },
+  "homepage": "https://github.com/theDevelopper/nw-es6-template-engine#readme"
+}
